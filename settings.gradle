@@ -1,0 +1,1 @@
+include ':app', ':bottomtabfragment', ':bottomtabvpfragment', ':bottomtab', ':bottomtab2', ':library-SlidingMenu', ':bottomtab2fragment'
